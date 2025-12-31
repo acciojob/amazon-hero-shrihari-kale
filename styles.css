@@ -16,7 +16,7 @@
  .product-cards {
     position: absolute;
     top: 250px;
-    left: 492px;      /* exact value test wants */
+    left: 492px;     
     display: flex;
     flex-direction: row;
     gap: 20px;
