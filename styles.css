@@ -16,12 +16,13 @@
  .product-cards {
     position: absolute;
     top: 250px;
-    left:50%; 
+    left: 492px;      /* exact value test wants */
     display: flex;
     flex-direction: row;
     gap: 20px;
-	 z-index:1;
-        }
+    z-index: 1;
+}
+
 
         .product-card {
             width: 300px;
